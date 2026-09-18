@@ -1,0 +1,1 @@
+git clone https://github.com/lbke/mcp-fastmcp-starter.git mcp-fastmcp-new-app --origin upstream
