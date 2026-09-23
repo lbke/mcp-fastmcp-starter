@@ -1,6 +1,6 @@
-from server import mcp
-import tools
-import resources
+from app.server import mcp
+import app.tools
+import app.resources
 
 
 def main():
