@@ -19,6 +19,8 @@ async def main():
         tools = await client.list_tools()
         resources = await client.list_resources()
         print(resources)
+        # Bonus : advanced version with pagination cursor
+        # resources_mcp = await client.list_resources_mcp( )
         prompts = await client.list_prompts()
 
         # Execute operations

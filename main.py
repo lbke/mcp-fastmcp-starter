@@ -1,6 +1,7 @@
 from app.server import mcp
 import app.tools
 import app.resources
+import app.prompts
 
 
 def main():
