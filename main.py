@@ -1,3 +1,4 @@
+# NOTE: main.py is the server entrypoint to be used when deploying
 from app.server import mcp
 import app.tools
 import app.resources
