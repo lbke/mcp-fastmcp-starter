@@ -61,4 +61,4 @@ Generate the requested query, for the following user intent: {intent}
         # using a static analyzer
         return answer.content.text
     # Scenario where the LLM refused to answer
-    return "The client returned no completion. We can't create a poem without the host's LLM help!"
+    return "The client returned no completion. We can't create a SQL query without the host's LLM help!"
